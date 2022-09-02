@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasCodeur
 
-- 📫 How to reach me l.dadamo@codeur.online
+- 📫 How to reach me l.dadamopro@gmail.com
 
 <!---
 LucasCodeur/LucasCodeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
