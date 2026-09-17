@@ -127,6 +127,8 @@ The project involved recreating core shell behavior, including command parsing, 
 
 [→ View project](https://github.com/iDarkAxe/Minishell)
 
+---
+
 ### 🔢 Algorithmic projects
 
 Several projects focused on algorithms, data structures and problem solving:
