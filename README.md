@@ -127,6 +127,32 @@ The project involved recreating core shell behavior, including command parsing, 
 
 [→ View project](https://github.com/iDarkAxe/Minishell)
 
+## ⚡ 42 Rushes
+
+During my time at **42**, I completed several short and intensive projects designed to solve programming problems under strict time constraints.
+
+These Rushes allowed me to work on **algorithms, data structures, C programming, debugging and problem solving**, while also developing my ability to quickly understand an unfamiliar problem and work efficiently with others.
+
+| Project          | What I worked on                                                                                                         |   Score  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | :------: |
+| **AlCu**         | Implementation of the **Nim game**, working with game logic, algorithms and program state management.                    | **100%** |
+| **yasl**         | Development of a small **shell-like language**, focusing on parsing, command interpretation and program execution.       | **100%** |
+| **Hotrace**      | Algorithmic problem solving involving **data processing and optimization under time constraints**.                       | **100%** |
+| **Libunit**      | Development of a **unit testing framework in C**, focusing on modularity, test organization and reusable code.           | **117%** |
+| **Retro-MFA**    | Reverse engineering and implementation work based on an existing program specification.                                  | **100%** |
+| **Wong Kar Wai** | Problem solving and implementation under a short deadline, with an emphasis on adapting quickly to project requirements. | **100%** |
+
+### What these Rushes taught me
+
+* 🧠 **Algorithmic thinking** — finding efficient solutions to unfamiliar problems
+* 🔎 **Code analysis** — quickly understanding specifications and existing code
+* 🧪 **Testing** — designing and validating code through automated tests
+* 🐛 **Debugging** — identifying and fixing problems under time constraints
+* 🤝 **Teamwork** — dividing tasks and collaborating efficiently
+* ⏱️ **Time management** — delivering a working solution within a limited timeframe
+
+**6 Rushes completed · 6 validated · 1 score above 100%**
+
 ---
 
 ### 🔢 Algorithmic projects
