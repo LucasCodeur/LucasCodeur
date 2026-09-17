@@ -117,6 +117,16 @@ Networking exercises focused on understanding IP addressing, subnetting and netw
 
 ---
 
+### 🐚 Minishell
+
+Implementation of a simplified Unix shell as part of the **42 curriculum**.
+
+The project involved recreating core shell behavior, including command parsing, processes, pipes, redirections, environment variables, signals and built-in commands. It was developed as a **team project**.
+
+**Focus:** C · Unix · Processes · Pipes · Redirections · Signals · Environment · Memory management
+
+[→ View project](https://github.com/iDarkAxe/Minishell)
+
 ### 🔢 Algorithmic projects
 
 Several projects focused on algorithms, data structures and problem solving:
