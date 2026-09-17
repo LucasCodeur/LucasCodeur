@@ -46,7 +46,7 @@ Web Development
 
 ## 🚀 Featured Projects
 
-### 🌐 Transcendance
+### 🌐 Transcendance (Ongoing)
 
 A full-stack multiplayer web project developed as part of the 42 curriculum.
 
@@ -85,6 +85,18 @@ A 3D graphical project written in C, implementing a raycasting-based rendering s
 **Focus:** C · Algorithms · Raycasting · Graphics · Mathematics
 
 [→ View project](https://github.com/LucasCodeur/cube3d)
+
+---
+
+### 🧵 Philosophers
+
+A concurrency project written in C, based on the **Dining Philosophers problem**.
+
+The project focuses on multithreading, synchronization and shared resource management, requiring careful handling of concurrent access and race conditions.
+
+**Focus:** C · Threads · Mutexes · Concurrency · Synchronization · Race conditions
+
+[→ View project](https://github.com/LucasCodeur/Philosophers)
 
 ---
 
@@ -127,6 +139,8 @@ The project involved recreating core shell behavior, including command parsing, 
 
 [→ View project](https://github.com/iDarkAxe/Minishell)
 
+---
+
 ## ⚡ 42 Rushes
 
 During my time at **42**, I completed several short and intensive projects designed to solve programming problems under strict time constraints.
@@ -155,9 +169,9 @@ These Rushes allowed me to work on **algorithms, data structures, C programming,
 
 ---
 
-### 🔢 Algorithmic projects
+### 🔢 Algorithmic & Systems Projects
 
-Several projects focused on algorithms, data structures and problem solving:
+Several projects focused on algorithms, data structures and low-level system programming:
 
 * **push_swap** — sorting algorithms and optimization
 * **Philosophers** — concurrency and synchronization
@@ -253,5 +267,3 @@ I'm currently looking to deepen my knowledge in:
 * Linux systems
 * Network programming
 * Electronics
-
----
